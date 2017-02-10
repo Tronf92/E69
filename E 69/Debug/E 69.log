@@ -1,0 +1,8 @@
+﻿  SchimbValutar.cpp
+c:\users\ady\documents\visual studio 2012\projects\e 69\e 69\schimbvalutar.cpp(8): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+c:\users\ady\documents\visual studio 2012\projects\e 69\e 69\schimbvalutar.cpp(22): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+c:\users\ady\documents\visual studio 2012\projects\e 69\e 69\schimbvalutar.cpp(36): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+  E 69.cpp
+  Generating Code...
+  E 69.vcxproj -> C:\Users\Ady\Documents\Visual Studio 2012\Projects\E 69\Debug\E 69.exe
